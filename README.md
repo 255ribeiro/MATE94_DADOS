@@ -4,7 +4,16 @@
 
 ## Análise relacionado banco de dados do Travis CI e GITHUB
 
+### Equipe
+
+Fernando Ribeiro <ffribeiro@gmail.com>
+
+Moara Brito <moarabritto@gmail.com>
+
+Juvenal Junior <juniormacedovc@gmail.com>
+
+Luciane Meconi <luciane.meconi@yahoo.com.br>
+
 ## Link do relatório:
 
-[http://rpubs.com/Moara/297258](
-http://rpubs.com/Moara/297258)
+[Relatório RPUBS](http://rpubs.com/Moara/297258)
