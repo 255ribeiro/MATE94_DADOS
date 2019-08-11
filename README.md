@@ -6,13 +6,13 @@
 
 ### Equipe
 
-Fernando Ribeiro <ffribeiro@gmail.com>
+Fernando Ferraz Ribeiro - <ffribeiro@gmail.com>
 
-Moara Brito <moarabritto@gmail.com>
+Moara Brito - <moarabritto@gmail.com>
 
-Juvenal Junior <juniormacedovc@gmail.com>
+Juvenal Junior - <juniormacedovc@gmail.com>
 
-Luciane Meconi <luciane.meconi@yahoo.com.br>
+Luciane Meconi - <luciane.meconi@yahoo.com.br>
 
 ## Link do relatório:
 
